@@ -1,0 +1,13 @@
+<?php
+
+define('DB_SERVER', 'database-1.chymdgbikvpi.us-east-1.rds.amazonaws.com');
+define('DB_USERNAME', 'admin123');
+define('DB_PASSWORD', 'admin123');
+define('DB_DATABASE', 'sample');
+
+?>
+
+mysql -h demo.chymdgbikvpi.us-east-1.rds.amazonaws.com -P 3306 -u admin123 -p
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
+

@@ -7,7 +7,7 @@ define('DB_DATABASE', 'sample');
 
 ?>
 
-mysql -h demo.chymdgbikvpi.us-east-1.rds.amazonaws.com -P 3306 -u admin123 -p
+//mysql -h demo.chymdgbikvpi.us-east-1.rds.amazonaws.com -P 3306 -u admin123 -p
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
+//https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
 
